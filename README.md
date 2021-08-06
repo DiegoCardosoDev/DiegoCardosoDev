@@ -15,7 +15,7 @@
      <img align="center" alt="Diego-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="Rafa-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-   <img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/8e815e77982593de1cd2fc228c66d2da.gif">
+   <img align="right" alt="Diego-kuririm" src="https://i.picasion.com/pic91/144dfad9c3f766e741916d814de7d79f.gif">
     
   
   ##
