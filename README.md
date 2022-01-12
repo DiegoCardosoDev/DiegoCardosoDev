@@ -33,4 +33,3 @@
   </div>
  
 
-- 🌱 No Momento estudo ,Java,SpringBoot,Typesscript,AngularJs,Html,Css,Banco de Dados PostgreeSql!
