@@ -4,13 +4,13 @@
  <div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCardosoDev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCardosoDev&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
-<div>
-  
+ 
   <a href="https://github.com/DiegoCardosoDev">
        <img align="right" alt="Diego-kuririm" src="https://i.picasion.com/pic91/144dfad9c3f766e741916d814de7d79f.gif">
-    </div>
+
+</div>
+
+
   
 </div>
   <div style="display: inline_block"><br>
@@ -20,6 +20,8 @@
      <img align="center" alt="Diego-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="Rafa-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+ 
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 
     
   
