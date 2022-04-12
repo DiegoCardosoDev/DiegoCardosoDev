@@ -1,13 +1,12 @@
 ### hello Word 👋
 
-<div>
-  <a href="https://github.com/DiegoCardosoDev">
-       <img align="right" alt="Diego-kuririm" src="https://i.picasion.com/pic91/144dfad9c3f766e741916d814de7d79f.gif">
-</div>
+
  <div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCardosoDev&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCardosoDev&layout=compact&langs_count=7&theme=city_lights"/>
-</div>
+     <a href="https://github.com/DiegoCardosoDev">
+       <img align="right" alt="Diego-kuririm" src="https://i.picasion.com/pic92/bcc38d97c12fbbb0b533582dd368ae31.gif">
+  </div>
 
 
   
@@ -17,7 +16,7 @@
   <img align="center" alt="Diego-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Diego-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
      <img align="center" alt="Diego-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="Rafa-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
  
  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
