@@ -1,13 +1,12 @@
 ### hello Word 👋
 
-
+<div>
+  <a href="https://github.com/DiegoCardosoDev">
+       <img align="right" alt="Diego-kuririm" src="https://i.picasion.com/pic91/144dfad9c3f766e741916d814de7d79f.gif">
+</div>
  <div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCardosoDev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCardosoDev&layout=compact&langs_count=7&theme=highcontrast"/>
- 
-  <a href="https://github.com/DiegoCardosoDev">
-       <img align="right" alt="Diego-kuririm" src="https://i.picasion.com/pic91/144dfad9c3f766e741916d814de7d79f.gif">
-
 </div>
 
 
