@@ -2,13 +2,12 @@
 
 
  <div>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCardosoDev&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCardosoDev&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCardosoDev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCardosoDev&layout=compact&langs_count=7&theme=codeSTACKr"/>
      <a href="https://github.com/DiegoCardosoDev">
        <img align="right" alt="Diego-kuririm" src="https://i.picasion.com/pic92/bcc38d97c12fbbb0b533582dd368ae31.gif">
   </div>
-
-
+ 
   
 </div>
   <div style="display: inline_block"><br>
@@ -21,10 +20,10 @@
  
  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 
-    
-  
-
-  
+ <div>
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+ </div>
+ 
   <div>
       <a href=https://www.linkedin.com/in/diego-cardoso-8023b31b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href = "mailto:diegocardososacramento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
