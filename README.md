@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCardosoDev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCardosoDev&layout=compact&langs_count=7&theme=codeSTACKr"/>
      <a href="https://github.com/DiegoCardosoDev">
-       <img align="right" alt="Diego-kuririm" src="https://i.picasion.com/pic92/bcc38d97c12fbbb0b533582dd368ae31.gif">
   </div>
  </div>
  
