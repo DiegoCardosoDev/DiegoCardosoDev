@@ -1,4 +1,16 @@
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoCardosoDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">Hi 👋! My name is Diego Nogueira</h2>
+
+
+###
+ <div>
+<img src="https://github-readme-stats.vercel.app/api?username=DiegoCardosoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoCardosoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ </div>
+ 
+ ###
+
+
 
 ### My Stacks:
 <div>
@@ -21,6 +33,8 @@
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>   
+
+###
  
 ### Contacts:
   
@@ -33,7 +47,9 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
 
-  </div>
+###
+
+
 
                                                                                                                                  
 
